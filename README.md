@@ -1,4 +1,4 @@
-# Generator of 1D gaussian random fields
+# Generator of 1D gaussian random fields (Gaussian process)
 
 it generates gaussian random fields on circle (which means periodic grf)
 
